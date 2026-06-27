@@ -1,4 +1,3 @@
-(i forgot to put the source, i'll do it tomorow)
 # 🎯 Muda Remote Solver
 
 An intelligent solver and assistant for the **Muda Remote** puzzle minigame.
